@@ -1,5 +1,5 @@
 <template>
-  <router-link to="/setup">setup</router-link>
+  <router-link to="/setup">setup123</router-link>
 </template>
 
 <script>
